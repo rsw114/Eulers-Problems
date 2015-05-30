@@ -1,0 +1,6 @@
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Even Fibonacci\Even Fibonacci\bin\Debug\Even Fibonacci.exe.config
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Even Fibonacci\Even Fibonacci\bin\Debug\Even Fibonacci.exe
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Even Fibonacci\Even Fibonacci\bin\Debug\Even Fibonacci.pdb
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Even Fibonacci\Even Fibonacci\obj\Debug\Even Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Even Fibonacci\Even Fibonacci\obj\Debug\Even Fibonacci.exe
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Even Fibonacci\Even Fibonacci\obj\Debug\Even Fibonacci.pdb
