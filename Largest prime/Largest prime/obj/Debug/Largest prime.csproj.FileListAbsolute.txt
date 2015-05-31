@@ -1,0 +1,6 @@
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Largest prime\Largest prime\bin\Debug\Largest prime.exe.config
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Largest prime\Largest prime\bin\Debug\Largest prime.exe
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Largest prime\Largest prime\bin\Debug\Largest prime.pdb
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Largest prime\Largest prime\obj\Debug\Largest prime.exe
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Largest prime\Largest prime\obj\Debug\Largest prime.pdb
+C:\Users\aylith\Documents\GitHub\Eulers-Problems\Largest prime\Largest prime\obj\Debug\Largest prime.csprojResolveAssemblyReference.cache
